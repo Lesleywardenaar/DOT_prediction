@@ -7,9 +7,11 @@ At this time I am still in progress and I will update this page to in the proces
 
 See my progress:      
 
-                      Gathering data            DONE  
+                      Gathering data              DONE  
 
-                      Preprocessing data        IN PROGRESS 
+                      Preprocessing data          IN PROGRESS 
+                      
+                      Explanatory Data Analysis   IN PROGRESS
                       
                       Sentiment analysis                     
                     
