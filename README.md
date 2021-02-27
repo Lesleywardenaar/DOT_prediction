@@ -5,15 +5,15 @@ My name is Lesley Wardenaar and I am a Master student Data science and society a
 
 At this time I am still in progress and I will update this page to in the process of my thesis.
 
-See my progress:      Gathering data            DONE  \n
+See my progress:      Gathering data            DONE  
 
-                      Preprocessing data        IN PROGRESS \n
+                      Preprocessing data        IN PROGRESS 
                       
-                      Sentiment analysis                     \n
+                      Sentiment analysis                     
+                    
+                      Building models                        
                       
-                      Building models                        \n
+                      Comparing models                       
                       
-                      Comparing models                       \n
-                      
-                      Final Thesis.pdf                       \n
+                      Final Thesis.pdf                       
   
